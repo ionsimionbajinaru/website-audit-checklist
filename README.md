@@ -1,23 +1,31 @@
-# Website Audit Checklist
+# website-audit-checklist
 
-A simple checklist founders can use to evaluate their website.
+A simple repository that helps founders run a practical website audit and spot the highest-impact improvements quickly.
 
-## What this covers
+## What this checklist is
 
-• UX clarity  
-• conversion elements  
-• performance  
-• analytics tracking  
-• SEO basics  
-• mobile usability
+This checklist is a founder-friendly framework for reviewing a website across the essentials that drive trust, usability, and growth. It focuses on six core areas:
 
-## How to use
+- UX clarity
+- page speed
+- conversion elements
+- analytics tracking
+- SEO basics
+- mobile responsiveness
 
-Go through the checklist and mark what is missing on your website.
+## How founders can use it
 
-## Download
+1. Open the checklist before reviewing your site.
+2. Go through each section page by page (homepage, key landing pages, pricing, contact, etc.).
+3. Mark each item as complete, partial, or missing.
+4. Prioritize fixes based on business impact (conversion and speed first).
+5. Re-run the checklist after updates to measure progress.
 
-website-audit-checklist.pdf
+## Downloadable checklist
+
+You can download or copy the checklist here:
+
+- [website-audit-checklist.md](./website-audit-checklist.md)
 
 ---
 
